@@ -1,36 +1,4 @@
 
-You have a captain's log due before 2023-10-15 (in about 18 hours)! Log it now!
-0x11. C - printf
-C
-Group project
- By: Julien Barbier, co-founder & CEO
- Weight: 5
- Project to be done in teams of 2 people (your team: Soufian Chakkouri, Yousra Chatouane)
- Project will start Oct 13, 2023 4:00 AM, must end by Oct 18, 2023 4:00 AM
- Checker was released at Oct 14, 2023 10:00 AM
- An auto review will be launched at the deadline
-Concepts
-For this project, we expect you to look at these concepts:
-
-Group Projects
-Pair Programming - How To
-Flowcharts
-Technical Writing
-Printf function brief - What to know to create your own Printf function
-All about Team Projects + Pairings + FAQ (A must read)
-Background Context
-Write your own printf function.
-
-
-
-^ In this picture, Kris, and Jul
-
-Resources
-Read or watch:
-
-Secrets of printf
-Group Projects concept page (Don’t forget to read this)
-Flowcharts concept page
 man or help:
 
 printf (3)
